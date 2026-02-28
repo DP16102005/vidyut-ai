@@ -1,0 +1,93 @@
+{
+    "MSEDCL_LTIII": {
+        "demand_charge_per_kva": 250,
+        "md_penalty_multiplier": 1.5,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 20,
+        "tod_offpeak_discount_pct": 10,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.0,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.25,
+        "peak_import_rate": 9.50
+    },
+    "BESCOM_LT5A": {
+        "demand_charge_per_kva": 230,
+        "md_penalty_multiplier": 1.5,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 15,
+        "tod_offpeak_discount_pct": 8,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.0,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.80,
+        "peak_import_rate": 8.50
+    },
+    "BSES_RAJDHANI_NDS1": {
+        "demand_charge_per_kva": 200,
+        "md_penalty_multiplier": 2.0,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 20,
+        "tod_offpeak_discount_pct": 12,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.5,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.00,
+        "peak_import_rate": 10.50
+    },
+    "TSSPDCL_LTIV": {
+        "demand_charge_per_kva": 220,
+        "md_penalty_multiplier": 1.5,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 15,
+        "tod_offpeak_discount_pct": 10,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.0,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.44,
+        "peak_import_rate": 8.80
+    },
+    "TANGEDCO_LTIV": {
+        "demand_charge_per_kva": 200,
+        "md_penalty_multiplier": 1.5,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 20,
+        "tod_offpeak_discount_pct": 10,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.0,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.00,
+        "peak_import_rate": 8.00
+    },
+    "DHBVN_DS": {
+        "demand_charge_per_kva": 180,
+        "md_penalty_multiplier": 2.0,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 20,
+        "tod_offpeak_discount_pct": 15,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.5,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.50,
+        "peak_import_rate": 9.00
+    },
+    "CESC_GP": {
+        "demand_charge_per_kva": 210,
+        "md_penalty_multiplier": 1.5,
+        "min_billing_demand_pct": 75,
+        "tod_peak_surcharge_pct": 15,
+        "tod_offpeak_discount_pct": 10,
+        "pf_penalty_threshold": 0.90,
+        "pf_penalty_pct_per_point": 1.0,
+        "pf_incentive_threshold": 0.95,
+        "pf_incentive_pct_per_point": 0.5,
+        "net_metering_export_rate": 2.30,
+        "peak_import_rate": 8.20
+    }
+}

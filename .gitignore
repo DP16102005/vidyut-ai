@@ -1,0 +1,17 @@
+# Ignore environments
+.env
+.env.*
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite3
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
